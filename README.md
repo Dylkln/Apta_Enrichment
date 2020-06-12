@@ -10,7 +10,7 @@ pour essayer d’identifier si elles ont des profils d’évolution différents.
 
 ## Installation ##
 
-Pour ces scripts, les modules suivants déja installés dans la verion standards de Python sont nécessaires :
+Pour ces scripts, les modules suivants déjà installés dans la version standard de Python sont nécessaires :
 
 - os
 - sys
@@ -18,12 +18,12 @@ Pour ces scripts, les modules suivants déja installés dans la verion standards
 - operator
 - copy
 
-Il est également nécessaire d'avoir installé les modules pythons suivant :
+Il est également nécessaire d'avoir installé les modules pythons suivants :
 
 - python-Levenshtein (module permettant entre autre de calculer la distance de Levenshtein
 - tqdm (ajoute une barre de progression du programme)
 
-Aucun autres modules ne sont nécessaires pour faire fonctionner les scripts.
+Aucun autre module n'est nécessaire pour faire fonctionner les scripts.
 
 Les scripts utilisent Python 3.7 qui est la version de Python disponible par défaut avec "Anaconda3" ou "Miniconda3"
 
