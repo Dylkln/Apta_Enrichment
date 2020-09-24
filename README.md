@@ -20,7 +20,7 @@ Pour ces scripts, les modules suivants déjà installés dans la version standar
 
 Il est également nécessaire d'avoir installé les modules pythons suivants :
 
-- python-Levenshtein (module permettant entre autre de calculer la distance de Levenshtein
+- python-Levenshtein (module permettant entre autre de calculer la distance de Levenshtein)
 - tqdm (ajoute une barre de progression du programme)
 
 Aucun autre module n'est nécessaire pour faire fonctionner les scripts.
