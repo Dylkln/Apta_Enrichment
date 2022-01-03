@@ -46,12 +46,3 @@ des séquences d'une famille à chaque round.
 
 Le script python "extract.py" permet d'extraire une famille d'un fichier texte contenant
 toutes les familles.
-
-
-
-## Support ##
-
-En cas de problème, merci de me contacter au mail suivant:
-
-    klein.dylan@outlook.com
-
